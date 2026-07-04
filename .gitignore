@@ -1,0 +1,4 @@
+# Ignore Java build target directory
+target/
+*.jar
+*.war
